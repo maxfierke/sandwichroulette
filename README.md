@@ -22,4 +22,6 @@ Well, here it is. Almost one year after it's development, here's a public releas
 
 I haven't tested it on Android 3.0+, so let me know.
 
+This project is licensed under the GNU General Public License version 3 or greater.
+
 <small>SandwichRoulette is not licensed, endorsed, sponsored, or affiliated with SUBWAY Restaurants or Doctor's Associates Inc.</small>
