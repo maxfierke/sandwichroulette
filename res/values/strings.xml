@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<resources>
+    <string name="app_name">SandwichRoulette</string>
+    <string name="sandwichName"/>
+    <string name="picklesStr">Pickles</string>
+    <string name="onionsStr">Onions</string>
+    <string name="lettuceStr">Lettuce</string>
+    <string name="tomatoStr">Tomatoes</string>
+    <string name="grnPepperStr">Grn. Peppers</string>
+    <string name="spinachStr">Spinach</string>
+    <string name="cucumberStr">Cucumbers</string>
+    <string name="bananaPeppersStr">Banana Peppers</string>
+    <string name="saucesStr">Sauces:</string>
+    <string name="oliveStr">Olives</string>
+    <string name="premadePromptStr">Choose a Sandwich Base</string>
+    <string-array name="base_array">
+        <item>Ham</item>
+        <item>B.L.T.</item>
+        <item>Buffalo Chicken</item>
+        <item>Chicken &amp; Bacon</item>
+        <item>Ham &amp; Turkey</item>
+        <item>Ham &amp; Italian Sausages</item>
+        <item>Meatball</item>
+        <item>Chicken Salad</item>
+        <item>Chicken</item>
+        <item>Roast Beef</item>
+        <item>Spicy Italian Meats</item>
+        <item>Steak</item>
+        <item>Clubhouse</item>
+        <item>Ham &amp; Turkey Melt</item>
+        <item>Philly Cheesesteak</item>
+        <item>Teriyaki Chicken</item>
+        <item>Tuna Fish</item>
+        <item>Turkey</item>
+        <item>Veggie</item>
+    </string-array>
+    <string-array name="bread_array">
+        <item>Wheat</item>
+        <item>Flatbread</item>
+        <item>Italian</item>
+        <item>Honey Oat Wheat</item>
+        <item>Italian Herbs &amp; Cheese</item>
+        <item>Monetery Cheddar</item>
+        <item>Roasted Garlic</item>
+        <item>Sourdough</item>
+    </string-array>
+    <string-array name="cheese_array">
+        <item>Cheddar</item>
+        <item>American</item>
+        <item>Shredded Monetery and Cheddar</item>
+        <item>Parmesan</item>
+        <item>Pepperjack</item>
+        <item>Provolone</item>
+        <item>Swiss</item>
+    </string-array>
+    <string name="aboutTitleStr">About SandwichRoulette</string>
+    <string name="aboutTextStr">SandwichRoulette is a little app designed to randomly generate a sandwich.\n\n<b>Developer: </b>Max Fierke\n\n<b>Disclaimer:</b>\nSandwichRoulette is not licensed, endorsed, sponsored, or affiliated with SUBWAY Restaurants or Doctor\'s Associates Inc.</string>
+    <string name="jalapenoStr">Jalapeños</string>
+    <string name="veggieStr">Vegetables:</string>
+    <string name="sammichNameTitleStr">Sandwich Name:</string>
+    <string name="baseSWTxt">Base Sandwich:</string>
+    <string name="breadTxtStr">Bread:</string>
+    <string name="cheeseTxtStr">Cheese:</string>
+    <string name="breadPromptStr">Choose a Type of Bread</string>
+    <string name="cheesePromptStr">Choose a Type of Cheese</string>
+    <string name="chipotleStr">Chipotle</string>
+    <string name="honeyMustardStr">Honey Mustard</string>
+    <string name="sweetOnionStr">Sweet Onion</string>
+    <string name="mayoStr">Mayo</string>
+    <string name="mustardStr">Mustard</string>
+    <string name="oilStr">Oil</string>
+    <string name="vinaigretteStr">Vinaigrette</string>
+    <string name="vinegarStr">Vinegar</string>
+    <string name="italianDressingStr">Italian Dressing</string>
+    <string name="ranchStr">Ranch</string>
+    <string name="caeserDressingStr">Caeser Dressing</string>
+</resources>
