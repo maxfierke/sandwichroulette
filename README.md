@@ -5,16 +5,20 @@ About a year ago (May 2011), me and my friend were in a Subway trying to think o
 
 Well, here it is. Almost one year after it's development, here's a public release:
 
-	SandwichRoulette is an application designed for the indecisive. Like many people, my lunch has been delayed because of my inability to decide on what to put in my sandwiches. This application, designed for Android-powered phones running 2.1 and higher, automates the ingredient choosing process. Creations can be saved and later versions will support sharing the particularly delicious ones.
+	SandwichRoulette is an application designed for the indecisive. Like many 
+	people, my lunch has been delayed because of my inability to decide on what
+	to put in my sandwiches. This application, designed for Android-powered 
+	devices running 2.1 and higher, automates the ingredient choosing process. 
+	Creations can be saved and later versions will support sharing the 
+	particularly delicious ones.
 
 **Features Include:**
 *  Saving/Loading of Sandwich Creations
 *  Exclusion of certain ingredients
-*  Choice to randomize the bread or not
+*  Choose to randomize the bread or not
 
 **Known Issues:**
 *  No i18n. English only. I'll translate it into French and German at some point and then Google Translate it into other languages after that.
-*  No xhdpi support. Sorry tablet users.
 
 I haven't tested it on Android 3.0+, so let me know.
 
