@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/relLayout1"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:layout_gravity="center" >
+
+    <ImageView
+        android:id="@+id/swRouletteSpImg"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:layout_gravity="center"
+        android:layout_marginBottom="30dp"
+        android:contentDescription="@string/splashImgDesc"
+        android:src="@drawable/logo" >
+    </ImageView>
+
+    <TextView
+        android:id="@+id/splashHeader"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/swRouletteSpImg"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="20dp"
+        android:text="@string/app_name"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:textSize="22dp" >
+    </TextView>
+
+    <TextView
+        android:id="@+id/splashSubHeader"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/splashHeader"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="5dp"
+        android:text="@string/app_tagline"
+        android:textSize="14dp" >
+    </TextView>
+
+    <TextView
+        android:id="@+id/copyrightLine"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/splashSubHeader"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="40dp"
+        android:text="@string/app_copyright"
+        android:textSize="14dp" >
+    </TextView>
+
+    <TextView
+        android:id="@+id/licenseLine"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/copyrightLine"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="5dp"
+        android:text="@string/app_license_tag"
+        android:textSize="12dp" >
+    </TextView>
+
+</RelativeLayout>

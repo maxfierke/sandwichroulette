@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<resources>
+    <string-array name="cheese_array">
+        <item>Cheddar</item>
+        <item>American</item>
+        <item>Shredded Monetery &amp; Cheddar</item>
+        <item>Parmesan</item>
+        <item>Pepperjack</item>
+        <item>Provolone</item>
+        <item>Swiss</item>
+    </string-array>
+</resources>

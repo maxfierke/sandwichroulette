@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<resources>
+    <string name="chipotleStr">Chipotle</string>
+    <string name="honeyMustardStr">Honey Mustard</string>
+    <string name="sweetOnionStr">Sweet Onion</string>
+    <string name="mayoStr">Mayo</string>
+    <string name="mustardStr">Mustard</string>
+    <string name="oilStr">Oil</string>
+    <string name="vinaigretteStr">Vinaigrette</string>
+    <string name="vinegarStr">Vinegar</string>
+    <string name="italianDressingStr">Italian Dressing</string>
+    <string name="ranchStr">Ranch</string>
+    <string name="caesarDressingStr">Caesar Dressing</string>
+    <string name="hummusStr">Hummus</string>
+</resources>

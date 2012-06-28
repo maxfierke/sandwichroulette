@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<resources>
+    <string-array name="base_array">
+        <item>Ham</item>
+        <item>B.L.T.</item>
+        <item>Buffalo Chicken</item>
+        <item>Chicken &amp; Bacon</item>
+        <item>Ham &amp; Turkey</item>
+        <item>Ham &amp; Italian Sausages</item>
+        <item>Meatball</item>
+        <item>Chicken Salad</item>
+        <item>Chicken</item>
+        <item>Roast Beef</item>
+        <item>Spicy Italian Meats</item>
+        <item>Steak</item>
+        <item>Clubhouse</item>
+        <item>Ham &amp; Turkey Melt</item>
+        <item>Philly Cheesesteak</item>
+        <item>Teriyaki Chicken</item>
+        <item>Tuna Fish</item>
+        <item>Turkey</item>
+        <item>Veggie</item>
+    </string-array>
+</resources>

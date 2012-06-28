@@ -75,3 +75,4 @@ target
 *.properties
 seed.txt
 map.txt
+/IDEA.md

@@ -1,8 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <menu
   xmlns:android="http://schemas.android.com/apk/res/android">
-    <item android:visible="true" android:enabled="true" android:titleCondensed="Open" android:title="Open Sandwich" android:id="@+id/opnSwItem" android:icon="@drawable/ic_menu_archive"></item>
-    <item android:enabled="true" android:title="Save Sandwich" android:id="@+id/saveSwItem" android:visible="true" android:titleCondensed="Save" android:icon="@drawable/ic_menu_save"></item><item android:visible="true" android:enabled="true" android:titleCondensed="Randomize" android:title="Random Sandwich" android:id="@+id/rndSwItem" android:icon="@drawable/ic_menu_rotate"></item>
-    <item android:visible="true" android:enabled="true" android:title="About Sandwich Roulette" android:titleCondensed="About" android:id="@+id/aboutItem" android:icon="@drawable/ic_menu_info_details"></item>
-    <item android:titleCondensed="Settings" android:id="@+id/prefItem" android:enabled="true" android:visible="true" android:title="Preferences" android:icon="@drawable/ic_menu_preferences"></item>
+    <item android:visible="true" android:enabled="true" android:titleCondensed="Open" android:title="Open Sandwich" android:id="@+id/opnSwItem" android:icon="@android:drawable/ic_menu_set_as"></item>
+    <item android:enabled="true" android:title="Save Sandwich" android:id="@+id/saveSwItem" android:visible="true" android:titleCondensed="Save" android:icon="@android:drawable/ic_menu_save"></item>
+    <item android:id="@+id/rmSwItem" android:title="Remove Sandwich" android:titleCondensed="Remove" android:icon="@android:drawable/ic_menu_delete" android:enabled="true" android:visible="true"></item><item android:visible="true" android:enabled="true" android:titleCondensed="Randomize" android:title="Random Sandwich" android:id="@+id/rndSwItem" android:icon="@android:drawable/ic_menu_rotate"></item>
+    <item android:visible="true" android:enabled="true" android:title="About Sandwich Roulette" android:titleCondensed="About" android:id="@+id/aboutItem" android:icon="@android:drawable/ic_menu_info_details"></item>
+    <item android:titleCondensed="Settings" android:id="@+id/prefItem" android:enabled="true" android:visible="true" android:title="Preferences" android:icon="@android:drawable/ic_menu_preferences"></item>
+    
 </menu>

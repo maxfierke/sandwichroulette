@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="picklesStr">Pickles</string>
+    <string name="onionsStr">Onions</string>
+    <string name="lettuceStr">Lettuce</string>
+    <string name="tomatoStr">Tomatoes</string>
+    <string name="grnPepperStr">Grn. Peppers</string>
+    <string name="spinachStr">Spinach</string>
+    <string name="cucumberStr">Cucumbers</string>
+    <string name="bananaPeppersStr">Banana Peppers</string>
+    <string name="oliveStr">Olives</string>
+    <string name="jalapenoStr">Jalapeños</string>
+</resources>
